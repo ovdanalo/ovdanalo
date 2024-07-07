@@ -1,4 +1,4 @@
-`# ovdanalo here 👋  I'm a developer with a keen interest in exploring new technologies and passion about coding.
+Danilo here 👋  I'm a developer with a keen interest in exploring new technologies and passion about coding.
 
 🚀 About Me
 -----------
@@ -31,4 +31,4 @@ Although my public GitHub activity might seem minimal, I am dedicated to continu
 
 * * *
 
-Thank you for visiting my profile! 😊`
+Thank you for visiting my profile! 😊
